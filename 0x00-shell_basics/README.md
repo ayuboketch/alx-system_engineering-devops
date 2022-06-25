@@ -1,2 +1,1 @@
-0-current_working_directory is this and that 
-1-listit script is this and that 
+(1)creare a script that switches curent user to ayub. (2)
