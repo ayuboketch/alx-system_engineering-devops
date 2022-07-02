@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al -p .. | grep '/s'
+ls -al .. | grep '/s'
