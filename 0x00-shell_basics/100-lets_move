@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -P "[A-Z]" > /tmp/u
+mv src/*[A-Z]* /tmp/u
