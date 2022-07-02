@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -S > /tmp/u
+grep -P '\b[A-Z]' > /tmp/u
